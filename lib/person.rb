@@ -5,7 +5,7 @@ def Person
   def initialize(name)
     @name = name 
   end 
-binding
+binding.pry
 
 def name=(what)
   @name = what 
