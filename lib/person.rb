@@ -1,10 +1,11 @@
+require "pry"
 def Person 
   
   
-  def initialize (name)
+  def initialize(name)
     @name = name 
   end 
-
+binding
 
 def name=(what)
   @name = what 
