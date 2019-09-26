@@ -1,5 +1,5 @@
 
-def Person 
+class Person 
   
   
  def initialize(name)
